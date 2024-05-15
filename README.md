@@ -1,5 +1,5 @@
 # Image Classification Flask App
-Overview
+### Overview
 This Flask application allows users to upload images and classify them using a pre-trained Support Vector Machine (SVM) model with Histogram of Oriented Gradients (HOG) features.
 
 ### Requirements
