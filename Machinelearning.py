@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score
 
 from skimage.feature import hog
 import joblib
-directory = "D:\Spark\spark_Notebook\dataset_1\dataset_full"
+directory = "D:\Spark\spark_Notebook\dataset_1\dataset_full" ### Give your path
 ## to extract features from Image.
 def extract_features(image,resize_shape=(128, 128)):
     """
